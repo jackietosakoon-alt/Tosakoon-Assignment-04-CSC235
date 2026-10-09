@@ -1,0 +1,7 @@
+I used the Progress bar and Carousel.
+
+The reason why I used the Carousel is because when it comes to the big project our team is thinking of doing music player and I think the carousel should be the right tool for when the song finishes and the album cover would switch over to the next one.
+
+As for the Progress bar, it's suppose to represent the progress of each song. Although I haven't figured out how to get it to move so it actually makes progress but I think it shouldn't be too hard.
+
+(Personal Computer was broken)
